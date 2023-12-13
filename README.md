@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2005<br>📚 Currently learning: how to create a nice github profile<br>🎯 Goal: Learn all the things!<br>📫 How to reach me: **daniel@yacc.dev**</p>
+<p align="left">✨ Creating bugs since 2005<br>📚 Currently learning: how to create a nice github profile<br>🎯 Goal: Learn all the things!<br>📫 How to reach me: <a href="mailto:daniel@yacc.dev">daniel@yacc.dev</a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/daniel-lindberg-70187317" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-lindberg-70187317" height="30" width="40" /></a>
